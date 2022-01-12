@@ -1,0 +1,27 @@
+h1 {
+  color: deeppink;
+  font-family: fantasy;
+  text-align: center;
+}
+h2 {
+  color: steelblue;
+  font-family: monospace;
+}
+table {
+  background-color: lightcyan;
+  width: 400px;
+  border: 2px solid steelblue;
+  font-family:monospace;
+}
+
+td {
+  border: 1px solid steelblue;
+  text-align: center;
+  padding: 5px;
+}
+
+.header {
+  color: deeppink;
+  background-color: lightsteelblue;
+  font-family: Arial;
+}
